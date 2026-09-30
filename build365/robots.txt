@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kamal007olica.github.io/email-assets./build365/sitemap.xml
