@@ -1,0 +1,10 @@
+{
+  "name": "Build 365",
+  "short_name": "Build 365",
+  "description": "Dev tools for lean teams. Shipping around the clock.",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#08090c",
+  "theme_color": "#08090c",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
